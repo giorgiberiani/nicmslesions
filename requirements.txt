@@ -1,0 +1,9 @@
+h5py
+MedPy==0.3.0
+scipy==1.0.0
+Keras==2.0.0
+nibabel==2.1.0
+numpy==1.13.3
+Pillow==5.0.0
+
+pip install https://github.com/loli/medpy/archive/Release_0.3.0p3.zip
